@@ -7,15 +7,21 @@ Software developer building **AI agents**, **full-stack web apps**, **Flutter mo
 - 🤖 Building agentic AI systems with LangGraph and LLMs
 - ☁️ Automating infrastructure with Terraform, Ansible, Kubernetes and Argo CD
 - 📱 Shipping cross-platform mobile apps with Flutter and Firebase
+- 🎓 B.S. Software Engineering @ INTEC · GPA 3.81 / 4.0 · Graduating April 2027
 - 💼 **Open to work**, remote and on-site
 - 📍 Based in 🇩🇴 Dominican Republic, relocating to 🇺🇸 United States (San Francisco Bay Area)
 
 ## Tech stack
 
 **Languages:** Python · TypeScript · JavaScript · Dart · C# · SQL  
-**Backend & AI:** FastAPI · Flask · LangGraph · LangChain · Groq · Supabase  
-**Frontend & Mobile:** Next.js · React · Flutter · Firebase · HTML/CSS  
-**DevOps & Cloud:** Kubernetes · Helm · Argo CD · Terraform · Ansible · AWS · Vercel
+**Backend & AI:** FastAPI · Flask · LangGraph · LangChain · Groq · Supabase (PostgreSQL)  
+**Frontend & Mobile:** Next.js · React · Tailwind CSS · Flutter · Firebase · HTML/CSS  
+**DevOps & Cloud:** Kubernetes · Helm · Argo CD · Terraform · Ansible · AWS · Vercel  
+**Compilers:** ANTLR 4 · LLVM
+
+## Certifications
+
+Fortinet FCA & FCF (Cybersecurity) · Huawei HCIA-AI · IBM Generative AI · Scrum Foundation Professional (SFPC)
 
 ## Featured projects
 

@@ -2,6 +2,8 @@
 
 Software developer building **AI agents**, **full-stack web apps**, **Flutter mobile apps** and **cloud/DevOps infrastructure**.
 
+🚀 **Try my AI agent live:** [CV Job Match Agent](https://frontend-five-tau-a92oojj0mf.vercel.app). Upload a CV and a job posting, and 4 AI agents analyze the match and recommend improvements.
+
 - 🤖 Building agentic AI systems with LangGraph and LLMs
 - ☁️ Automating infrastructure with Terraform, Ansible, Kubernetes and Argo CD
 - 📱 Shipping cross-platform mobile apps with Flutter and Firebase

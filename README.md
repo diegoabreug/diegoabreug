@@ -7,7 +7,8 @@ Software developer building **AI agents**, **full-stack web apps**, **Flutter mo
 - 🤖 Building agentic AI systems with LangGraph and LLMs
 - ☁️ Automating infrastructure with Terraform, Ansible, Kubernetes and Argo CD
 - 📱 Shipping cross-platform mobile apps with Flutter and Firebase
-- 💼 **Open to work**
+- 💼 **Open to work**, remote and on-site
+- 📍 Based in 🇩🇴 Dominican Republic, relocating to 🇺🇸 United States (San Francisco Bay Area)
 
 ## Tech stack
 

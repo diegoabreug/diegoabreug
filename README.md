@@ -7,7 +7,7 @@ Software developer building **AI agents**, **full-stack web apps**, **Flutter mo
 - 🤖 Building agentic AI systems with LangGraph and LLMs
 - ☁️ Automating infrastructure with Terraform, Ansible, Kubernetes and Argo CD
 - 📱 Shipping cross-platform mobile apps with Flutter and Firebase
-- 🎓 B.S. Software Engineering @ INTEC · GPA 3.81 / 4.0 · Graduating April 2027
+- 🎓 B.S. Software Engineering @ INTEC · GPA 3.81 / 4.0 · Graduating Jan 2027
 - 💼 **Open to work**, remote and on-site
 - 📍 Based in 🇩🇴 Dominican Republic, relocating to 🇺🇸 United States (San Francisco Bay Area)
 

@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-INTEC-6d28d9?style=flat-square&logo=bookstack&logoColor=white" alt="B.S. Software Engineering, INTEC" />
 <img src="https://img.shields.io/badge/GPA-3.81%20%2F%204.0-7c3aed?style=flat-square" alt="GPA 3.81" />
 <img src="https://img.shields.io/badge/Graduating-January%202027-4338ca?style=flat-square" alt="Graduating January 2027" />
-<img src="https://img.shields.io/badge/Location-Dominican%20Republic%20%E2%86%92%20SF%20Bay%20Area-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" alt="Dominican Republic to SF Bay Area" />
+<img src="https://img.shields.io/badge/Location-Dominican%20Republic%20to%20SF%20Bay%20Area-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" alt="Dominican Republic to SF Bay Area" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS40YzAtMS4zLS4wMi0yLjk1LTEuOC0yLjk1LTEuOCAwLTIuMDggMS40LTIuMDggMi44NlYyMUg5eicvPjwvc3ZnPg==" alt="LinkedIn" /></a>
 <a href="https://fierce-saturnalia-d5d.notion.site/Diego-Abreu-Portfolio-34b422121b6a802a98d3eb0af1fd4581"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
 <a href="https://frontend-five-tau-a92oojj0mf.vercel.app"><img src="https://img.shields.io/badge/Live%20AI%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Live AI Demo" /></a>
 <a href="https://github.com/diegoabreug"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -248,7 +248,7 @@ open_to:   [Software Engineering, AI/ML Engineering, Full-Stack roles, Internshi
 
 <div align="center">
 
-<a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-diegoabreug-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-diegoabreug-4338ca?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS40YzAtMS4zLS4wMi0yLjk1LTEuOC0yLjk1LTEuOCAwLTIuMDggMS40LTIuMDggMi44NlYyMUg5eicvPjwvc3ZnPg==" alt="LinkedIn" /></a>
 <a href="https://github.com/diegoabreug"><img src="https://img.shields.io/badge/GitHub-diegoabreug-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://fierce-saturnalia-d5d.notion.site/Diego-Abreu-Portfolio-34b422121b6a802a98d3eb0af1fd4581"><img src="https://img.shields.io/badge/Portfolio-Notion-6d28d9?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
 

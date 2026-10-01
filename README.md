@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-INTEC-6d28d9?style=flat-square&logo=bookstack&logoColor=white" alt="B.S. Software Engineering, INTEC" />
 <img src="https://img.shields.io/badge/GPA-3.81%20%2F%204.0-7c3aed?style=flat-square" alt="GPA 3.81" />
 <img src="https://img.shields.io/badge/Graduating-January%202027-4338ca?style=flat-square" alt="Graduating January 2027" />
-<img src="https://img.shields.io/badge/Location-Dominican%20Republic%20to%20SF%20Bay%20Area-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" alt="Dominican Republic to United States" />
+<img src="https://img.shields.io/badge/Location-Dominican%20Republic%20to%20United%20States-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" alt="Dominican Republic to United States" />
 
 <br/><br/>
 

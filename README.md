@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS40YzAtMS4zLS4wMi0yLjk1LTEuOC0yLjk1LTEuOCAwLTIuMDggMS40LTIuMDggMi44NlYyMUg5eicvPjwvc3ZnPg==" alt="LinkedIn" /></a>
-<a href="https://fierce-saturnalia-d5d.notion.site/Diego-Abreu-Portfolio-34b422121b6a802a98d3eb0af1fd4581"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
+<a href="https://diegoabreug.dev"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://frontend-five-tau-a92oojj0mf.vercel.app"><img src="https://img.shields.io/badge/Live%20AI%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Live AI Demo" /></a>
 <a href="https://github.com/diegoabreug"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -33,7 +33,7 @@ Software Engineering student at **INTEC** (GPA 3.81) who builds production-minde
 - **Cloud & DevOps:** infrastructure as code with Terraform and Ansible, GitOps delivery with Helm and Argo CD on Kubernetes.
 - **Product mindset:** I start from the user's problem, ship a working version fast, and iterate with real feedback.
 
-**Open to:** Software Engineering · AI/ML Engineering · Full-Stack · Internships and new-grad roles · Remote or on-site (relocating to the SF Bay Area)
+**Open to:** Software Engineering · AI/ML Engineering · Full-Stack · Internships and new-grad roles · Remote or on-site (relocating to the United States)
 
 ---
 
@@ -250,7 +250,7 @@ open_to:   [Software Engineering, AI/ML Engineering, Full-Stack roles, Internshi
 
 <a href="https://linkedin.com/in/diegoabreug"><img src="https://img.shields.io/badge/LinkedIn-diegoabreug-4338ca?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS40YzAtMS4zLS4wMi0yLjk1LTEuOC0yLjk1LTEuOCAwLTIuMDggMS40LTIuMDggMi44NlYyMUg5eicvPjwvc3ZnPg==" alt="LinkedIn" /></a>
 <a href="https://github.com/diegoabreug"><img src="https://img.shields.io/badge/GitHub-diegoabreug-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://fierce-saturnalia-d5d.notion.site/Diego-Abreu-Portfolio-34b422121b6a802a98d3eb0af1fd4581"><img src="https://img.shields.io/badge/Portfolio-Notion-6d28d9?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
+<a href="https://diegoabreug.dev"><img src="https://img.shields.io/badge/Portfolio-diegoabreug.dev-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: diegoabreug.dev" /></a>
 
 <br/><br/>
 
